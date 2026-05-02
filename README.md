@@ -1,2 +1,6 @@
 # wilbupanel
-a small mod menu for sledding game
+a small modded menu for sledding game!
+
+## what
+it doesn't have many features at the moment but it will soon
+hopefully
